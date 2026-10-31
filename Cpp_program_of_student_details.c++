@@ -26,9 +26,9 @@ public:
 };
 
 int main() {
-    Student s;
-    s.setData();
-    s.displayData();
+    Student std;
+    std.setData();
+    std.displayData();
 
     return 0;
 }
